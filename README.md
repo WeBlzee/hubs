@@ -64,3 +64,5 @@ Mozilla and Hubs believe that privacy is fundamental to a healthy internet. Read
 ## License
 
 Hubs is licensed with the [Mozilla Public License 2.0](./LICENSE)
+
+## rennick's first modification.
