@@ -1,0 +1,35 @@
+Working on meta verse.
+
+Blender work: yellow dot for textures. 
+
+GLTF plugin for blender
+
+Make room for next time.
+
+https://hubs.mozilla.com/spoke/projects/Jbuuw75
+
+https://hubs.mozilla.com/qm6r8zN/rich-advanced-camp
+
+https://github.com/WeBlzee/hubs
+
+Installed git 
+
+Commands for linux command prompt:
+pwd = print working directory
+cd = change directory and cd d:
+ls = (list)
+mkdir = make directory
+
+
+Git commands:
+git clone = copy a repo
+git checkout <branch name> (-b)
+git status = shows recent changed files
+git diff = shows recent differences
+git add 
+git commit -m “(name)” = makes change to file
+git log = shows changes made
+git remote -v = lists remotes
+                                                                                                               Time: 30m, 30m, 1h,
+
+Today we Talked and worked on little things about my mozilla hub vr room im creating and mostly about coding with github and git bash to code.
